@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1dce8c17d25618e4fb97d2d111ae85c3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - piece: {instanceID: 0}
+  - queen: {fileID: 4279263784777325229, guid: a70ae2b30319b124e9191362749fe1bb, type: 3}
+  - bishop: {fileID: 1912727167716621971, guid: 50b6ea7785080f9428a9e11200397d5c, type: 3}
+  - knight: {fileID: 1855893072073252709, guid: 8f67bc305e69c5446a645dd49a6e76e8, type: 3}
+  - rook: {fileID: 5167448040961597253, guid: ab8de5ea51e92b049b742099f2f583e0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
